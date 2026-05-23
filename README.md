@@ -1,6 +1,6 @@
 # HE-THONG-QUAN-LY-PHONG-MAY-CYPER
 ## Tổng quan
-Đây là một phần mềm được thiết kế với mục đích là để dùng trong việc quản lý các tài khoản được đăng ký và sử dụng trong internet cafe.
+Đây là một phần mềm được thiết kế với mục đích là để dùng trong việc quản lý các tài khoản được đăng ký và sử dụng trong phòng máy CYPER.
 
 ## Cấu hình
 * **Ngôn ngữ:** C
